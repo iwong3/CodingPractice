@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="com.gitlab.cdc-java.util:cdc-util-core:0.0.11.3" type="repository">
+    <properties maven-id="com.gitlab.cdc-java.util:cdc-util-core:0.0.11.3" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/gitlab/cdc-java/util/cdc-util-core/0.0.11.3/cdc-util-core-0.0.11.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-api/2.11.1/log4j-api-2.11.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.11.1/log4j-core-2.11.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-cli/commons-cli/1.4/commons-cli-1.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
